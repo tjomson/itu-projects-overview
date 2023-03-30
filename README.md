@@ -11,7 +11,7 @@ Links to repositories used in various courses I have taken on the IT University 
 
 ### 2. semester
 
-- Førsteårsprojekt: [Bong Maps](https://github.com/tjomson/bong-maps), [exercises](https://github.com/tjomson/BFST20thhk)
+- Førsteårsprojekt: [Bong Maps](https://github.com/bong-inc/bong-maps), [exercises](https://github.com/tjomson/BFST20thhk)
 - Algorithms and Data Structure: [Kattis exercises](https://github.com/tjomson/algs-kattis)
 - Systematisk Design af Brugergrænseflader: [exam project](https://github.com/tjomson/DesignMemeEksamensprojekt), [meme generator](https://github.com/tjomson/meme-generator)
 
@@ -25,7 +25,7 @@ Links to repositories used in various courses I have taken on the IT University 
 
 - DevOps: [Twooter (Twitter clone)](https://github.com/themagicstrings/twooter)
 - Second Year Project: [NATS Topology Visualizer](https://github.com/SimCorp/nats-topology-visualiser)
-- Functional Programming: [Scrabble bot](https://github.com/Kyhl/Scrubble)
+- Functional Programming: [Scrabble bot](https://github.com/Kyhl/Scrubble), [assignments](https://github.com/tjomson/FP2021)
 
 ### 5. semester
 
