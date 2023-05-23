@@ -51,4 +51,4 @@ Links to repositories used in various courses I have taken on the IT University 
 - Internet of Things: [exercises](https://github.com/tjomson/IoT)
 - Computer Systems Performance: [mini projects](https://github.com/emiljapelt/CriSP)
 - How To Make (Almost) Anything: [Arduino code](https://github.com/tjomson/htmaa)
-- Ethical Hacking: [assignments](https://github.com/tjomson/ethical-hacking)
+- Ethical Hacking: [assignments](https://github.com/tjomson/ethical-hacking), [project notes](https://github.com/emiljapelt/Etisk-hakkeri)
