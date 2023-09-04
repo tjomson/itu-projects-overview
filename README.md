@@ -41,7 +41,7 @@ Links to repositories used in various courses I have taken on the IT University 
 
 ### 1. semester
 
-- Algorithm Design [Kattis exercises](https://github.com/tjomson/algdes-kattis), [Lab assignments](https://github.com/bueskyd/algdes-labs)
+- Algorithm Design: [Kattis exercises](https://github.com/tjomson/algdes-kattis), [Lab assignments](https://github.com/bueskyd/algdes-labs)
 - Practical Concurrent and Parallel Programming: [assignments](https://github.com/tjomson/pcpp), [exam submission](https://github.com/tjomson/pcpp-exam)
 - Security: [mandatory assignments](https://github.com/tjomson/security-mandatory), [vulnerable website](https://github.com/tjomson/MySecretNotes), [exercises](https://github.com/emiljapelt/INSEC1)
 - Advanced Programming: [exercises](https://github.com/tjomson/adpro), [exam submission](https://github.com/tjomson/adpro-exam)
@@ -52,3 +52,8 @@ Links to repositories used in various courses I have taken on the IT University 
 - Computer Systems Performance: [mini projects](https://github.com/emiljapelt/CriSP)
 - How To Make (Almost) Anything: [Arduino code](https://github.com/tjomson/htmaa)
 - Ethical Hacking: [assignments](https://github.com/tjomson/ethical-hacking), [project notes](https://github.com/emiljapelt/Etisk-hakkeri)
+
+### 3. semester
+
+- Advanced Data Systems: [exercises](https://github.com/tjomson/advanced-data-systems), [DuckDB fork](https://github.com/tjomson/duckdb)
+- Game Programming: [exercises](https://github.com/tjomson/gaming)
