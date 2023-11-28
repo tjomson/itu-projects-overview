@@ -2,7 +2,7 @@
 
 Links to repositories used in various courses I have taken on the IT University of Copenhagen.
 
-## BSc, Software Development (Sep. 2019 - Jun 2022)
+## BSc, Software Development (Sep. 2019 - Jun. 2022)
 
 ### 1. semester
 
@@ -37,7 +37,7 @@ Links to repositories used in various courses I have taken on the IT University 
 - Bachelor's Project: [Git Truck](https://github.com/git-truck/git-truck)
 - Introduction to Artificial Intelligence: [mini projects](https://github.com/hojelse/nutellaAI), [exam practice](https://github.com/tjomson/iai-ve)
 
-## MSc, Computer Science (Sep 2022 - Jun 2024)
+## MSc, Computer Science (Sep. 2022 - Jun. 2024)
 
 ### 1. semester
 
@@ -55,5 +55,6 @@ Links to repositories used in various courses I have taken on the IT University 
 
 ### 3. semester
 
-- Advanced Data Systems: [exercises](https://github.com/tjomson/advanced-data-systems), [DuckDB fork](https://github.com/tjomson/duckdb)
+- Advanced Data Systems: [exercises](https://github.com/tjomson/advanced-data-systems), [DuckDB OML extension](https://github.com/tjomson/oml)
 - Game Programming: [exercises](https://github.com/tjomson/gaming)
+- Research project: [Git Truck pull requests](https://github.com/git-truck/git-truck/pulls?q=is%3Apr+milestone%3A%22Fast+truck+research%22)
