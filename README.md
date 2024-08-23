@@ -58,4 +58,6 @@ Links to repositories used in various courses I have taken at the IT University 
 - Advanced Data Systems: [exercises](https://github.com/tjomson/advanced-data-systems), [DuckDB OML extension](https://github.com/tjomson/oml)
 - Game Programming: [exercises](https://github.com/tjomson/gaming), [exam project](https://github.com/tjomson/notplateup)
 - Research project: [Git Truck pull requests](https://github.com/git-truck/git-truck/pulls?q=is%3Apr+milestone%3A%22Fast+truck+research%22)
+
+### 4. semester
 - Master's thesis: [Git Truck with time range sliders pull request](https://github.com/git-truck/git-truck/pull/731) 
